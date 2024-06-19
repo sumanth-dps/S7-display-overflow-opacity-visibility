@@ -1,0 +1,114 @@
+
+#heading {
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(47, 19, 211);
+    background-color: rgb(16, 228, 235);
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
+#heading:hover{
+    background-color: rgb(16, 51, 8);
+    color :rgb(87, 232, 58)
+}
+#body{
+    background-color: rgb(227, 247, 159);
+}
+
+#prabhas{
+    height: 400px;
+}
+#RC{
+
+    width: 300px;
+    opacity: 0.5;
+}
+#MB{
+    width: 300px;
+    opacity: 0.9;
+}
+#NTR{
+    width:300px;
+    
+}
+#AA{
+    width:300px;
+    visibility:visible;
+}
+#PK{
+    width:300px;
+}
+#kalyan{
+    color : rgb(26, 42, 11);
+    font-size: 20px;
+    font-family: cursive;
+    display: inline-block;
+    width: 1100px;
+    height:375px;
+    overflow:auto;
+}
+#prabha{
+    color : rgb(26, 42, 11);
+    font-size: 20px;
+    display: inline-block;
+    width : 1100px;
+    height:375px;
+    overflow:auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#charan{
+    ccolor : rgb(26, 42, 11);
+    font-size: 20px;
+    display: inline-block;
+    width: 1100px;
+    height:375px;
+    overflow:auto;
+}
+#mahesh{
+    color : rgb(26, 42, 11);
+    font-size: 20px;
+    display: inline-block;
+    width: 1100px;
+    height:375px;
+    overflow:auto;
+}
+#tarak{
+    color : rgb(26, 42, 11);
+    font-size: 20px;
+    display: inline-block;
+    width: 1100px;
+    height:375px;
+    overflow:auto;
+}
+#arjun{
+    color : rgb(26, 42, 11);
+    font-size: 20px;
+    display: inline-block;
+    width: 1100px;
+    height:375px;
+    overflow:auto;
+}
+#powerStar{
+    color :rgb(247, 56, 56)
+
+}
+#superStar{
+    color :skyblue
+
+}
+#rebelStar{
+    color:rgb(245, 140, 55)
+
+}
+#megapowerStar{
+    color:blueviolet;
+
+}
+#iconStar{
+    color:rgb(108, 233, 36)
+
+}
+#youngTiger{
+    color:rgb(88, 98, 8);
+}
